@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ritika Kumar</h1>
 <h3 align="center">An enthusiastic frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fpayalthummar&psig=AOvVaw2nY_ZUZrk4S-HtkHZ_qReF&ust=1690816645896000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjRkf_ctoADFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikaaaa177&label=Profile%20views&color=0e75b6&style=flat" alt="ritikaaaa177" /> </p>
 
