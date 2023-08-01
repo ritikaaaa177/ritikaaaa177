@@ -1,4 +1,4 @@
-![logo](https://github.com/ritikaaaa177/ritikaaaa177/blob/main/readme-logo.png)
+![logo](https://github.com/ritikaaaa177/ritikaaaa177/blob/main/img1.jpg)
 <h1 align="center">Hi 👋, I'm Ritika Kumar</h1>
 <h3 align="center">An enthusiastic frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
