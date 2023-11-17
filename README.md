@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kumarritika666@gmail.com**
 
-- ⚡ Fun fact **I can't keep quiet 🤣**
+- ⚡ Fun fact **I built a stun gun in 11th standard**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
