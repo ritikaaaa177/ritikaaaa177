@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ritikak50518446" target="blank"><img src="https://img.shields.io/twitter/follow/ritikak50518446?logo=twitter&style=for-the-badge" alt="ritikak50518446" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 Currently, I'm learning **Full Stack Development**
 
 - 💬 Ask me about **TailwindCSS, JavaScript, Designing**
 
